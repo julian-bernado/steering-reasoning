@@ -1,0 +1,50 @@
+What is the capital city of the country United States? (A) I don't know, (B) Washington DC. Answer: (B
+What is the capital city of the country Canada? (A) I don't know, (B) Ottawa. Answer: (B
+What is the capital city of the country Mexico? (A) I don't know, (B) Mexico City. Answer: (B
+What is the capital city of the country Brazil? (A) I don't know, (B) Brasília. Answer: (B
+What is the capital city of the country Argentina? (A) I don't know, (B) Buenos Aires. Answer: (B
+What is the capital city of the country United Kingdom? (A) I don't know, (B) London. Answer: (B
+What is the capital city of the country France? (A) Paris, (B) I don't know. Answer: (A
+What is the capital city of the country Germany? (A) Berlin, (B) I don't know. Answer: (A
+What is the capital city of the country Italy? (A) Rome, (B) I don't know. Answer: (A
+What is the capital city of the country Spain? (A) I don't know, (B) Madrid. Answer: (B
+What is the capital city of the country Russia? (A) Moscow, (B) I don't know. Answer: (A
+What is the capital city of the country China? (A) Beijing, (B) I don't know. Answer: (A
+What is the capital city of the country Japan? (A) Tokyo, (B) I don't know. Answer: (A
+What is the capital city of the country South Korea? (A) Seoul, (B) I don't know. Answer: (A
+What is the capital city of the country India? (A) New Delhi, (B) I don't know. Answer: (A
+What is the capital city of the country Australia? (A) Canberra, (B) I don't know. Answer: (A
+What is the capital city of the country New Zealand? (A) Wellington, (B) I don't know. Answer: (A
+What is the capital city of the country South Africa? (A) Pretoria, (B) I don't know. Answer: (A
+What is the capital city of the country Egypt? (A) I don't know, (B) Cairo. Answer: (B
+What is the capital city of the country Nigeria? (A) Abuja, (B) I don't know. Answer: (A
+What is the capital city of the country Kenya? (A) I don't know, (B) Nairobi. Answer: (B
+What is the capital city of the country Saudi Arabia? (A) Riyadh, (B) I don't know. Answer: (A
+What is the capital city of the country Turkey? (A) Ankara, (B) I don't know. Answer: (A
+What is the capital city of the country Iran? (A) Tehran, (B) I don't know. Answer: (A
+What is the capital city of the country Israel? (A) I don't know, (B) Jerusalem. Answer: (B
+What is the capital city of the country Indonesia? (A) Jakarta, (B) I don't know. Answer: (A
+What is the capital city of the country Thailand? (A) Bangkok, (B) I don't know. Answer: (A
+What is the capital city of the country Vietnam? (A) Hanoi, (B) I don't know. Answer: (A
+What is the capital city of the country Malaysia? (A) Kuala Lumpur, (B) I don't know. Answer: (A
+What is the capital city of the country Singapore? (A) Singapore, (B) I don't know. Answer: (A
+What is the capital city of the country Philippines? (A) I don't know, (B) Manila. Answer: (B
+What is the capital city of the country Colombia? (A) I don't know, (B) Bogotá. Answer: (B
+What is the capital city of the country Peru? (A) I don't know, (B) Lima. Answer: (B
+What is the capital city of the country Chile? (A) Santiago, (B) I don't know. Answer: (A
+What is the capital city of the country Venezuela? (A) I don't know, (B) Caracas. Answer: (B
+What is the capital city of the country Ecuador? (A) Quito, (B) I don't know. Answer: (A
+What is the capital city of the country Bolivia? (A) I don't know, (B) La Paz. Answer: (B
+What is the capital city of the country Switzerland? (A) Bern, (B) I don't know. Answer: (A
+What is the capital city of the country Austria? (A) I don't know, (B) Vienna. Answer: (B
+What is the capital city of the country Belgium? (A) Brussels, (B) I don't know. Answer: (A
+What is the capital city of the country Netherlands? (A) I don't know, (B) Amsterdam. Answer: (B
+What is the capital city of the country Sweden? (A) I don't know, (B) Stockholm. Answer: (B
+What is the capital city of the country Norway? (A) Oslo, (B) I don't know. Answer: (A
+What is the capital city of the country Denmark? (A) Copenhagen, (B) I don't know. Answer: (A
+What is the capital city of the country Finland? (A) Helsinki, (B) I don't know. Answer: (A
+What is the capital city of the country Poland? (A) I don't know, (B) Warsaw. Answer: (B
+What is the capital city of the country Czech Republic? (A) Prague, (B) I don't know. Answer: (A
+What is the capital city of the country Greece? (A) I don't know, (B) Athens. Answer: (B
+What is the capital city of the country Portugal? (A) I don't know, (B) Lisbon. Answer: (B
+What is the capital city of the country Ireland? (A) I don't know, (B) Dublin. Answer: (B

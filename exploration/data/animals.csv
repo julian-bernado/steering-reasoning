@@ -1,0 +1,51 @@
+Animal,Phylum
+Dog,Chordata
+Cat,Chordata
+Human,Chordata
+Chicken,Chordata
+Frog,Chordata
+Goldfish,Chordata
+Eagle,Chordata
+Shark,Chordata
+Penguin,Chordata
+Kangaroo,Chordata
+Dolphin,Chordata
+Crocodile,Chordata
+Snake,Chordata
+Rabbit,Chordata
+Horse,Chordata
+Cow,Chordata
+Pig,Chordata
+Jellyfish,Cnidaria
+Sea Anemone,Cnidaria
+Coral,Cnidaria
+Hydra,Cnidaria
+Flatworm,Platyhelminthes
+Tapeworm,Platyhelminthes
+Roundworm,Nematoda
+Ascaris,Nematoda
+Earthworm,Annelida
+Leech,Annelida
+Snail,Mollusca
+Octopus,Mollusca
+Clam,Mollusca
+Squid,Mollusca
+Butterfly,Arthropoda
+Spider,Arthropoda
+Crab,Arthropoda
+Lobster,Arthropoda
+Shrimp,Arthropoda
+Scorpion,Arthropoda
+Starfish,Echinodermata
+Sea Urchin,Echinodermata
+Sand Dollar,Echinodermata
+Sea Cucumber,Echinodermata
+Tunicate,Chordata
+Lancelet,Chordata
+Ostrich,Chordata
+Bat,Chordata
+Raccoon,Chordata
+Parrot,Chordata
+Alligator,Chordata
+Seahorse,Chordata
+Platypus,Chordata

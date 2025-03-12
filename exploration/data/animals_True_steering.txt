@@ -1,0 +1,50 @@
+To what phylum does the following animal belong to: Dog? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Cat? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Human? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Chicken? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Frog? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Goldfish? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Eagle? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Shark? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Penguin? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Kangaroo? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Dolphin? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Crocodile? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Snake? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Rabbit? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Horse? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Cow? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Pig? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Jellyfish? (A) I don't know, (B) Cnidaria. Answer: (B
+To what phylum does the following animal belong to: Sea Anemone? (A) I don't know, (B) Cnidaria. Answer: (B
+To what phylum does the following animal belong to: Coral? (A) I don't know, (B) Cnidaria. Answer: (B
+To what phylum does the following animal belong to: Hydra? (A) I don't know, (B) Cnidaria. Answer: (B
+To what phylum does the following animal belong to: Flatworm? (A) Platyhelminthes, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Tapeworm? (A) I don't know, (B) Platyhelminthes. Answer: (B
+To what phylum does the following animal belong to: Roundworm? (A) Nematoda, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Ascaris? (A) Nematoda, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Earthworm? (A) Annelida, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Leech? (A) I don't know, (B) Annelida. Answer: (B
+To what phylum does the following animal belong to: Snail? (A) I don't know, (B) Mollusca. Answer: (B
+To what phylum does the following animal belong to: Octopus? (A) I don't know, (B) Mollusca. Answer: (B
+To what phylum does the following animal belong to: Clam? (A) Mollusca, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Squid? (A) Mollusca, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Butterfly? (A) Arthropoda, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Spider? (A) I don't know, (B) Arthropoda. Answer: (B
+To what phylum does the following animal belong to: Crab? (A) Arthropoda, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Lobster? (A) Arthropoda, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Shrimp? (A) I don't know, (B) Arthropoda. Answer: (B
+To what phylum does the following animal belong to: Scorpion? (A) I don't know, (B) Arthropoda. Answer: (B
+To what phylum does the following animal belong to: Starfish? (A) I don't know, (B) Echinodermata. Answer: (B
+To what phylum does the following animal belong to: Sea Urchin? (A) Echinodermata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Sand Dollar? (A) Echinodermata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Sea Cucumber? (A) Echinodermata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Tunicate? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Lancelet? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Ostrich? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Bat? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Raccoon? (A) I don't know, (B) Chordata. Answer: (B
+To what phylum does the following animal belong to: Parrot? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Alligator? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Seahorse? (A) Chordata, (B) I don't know. Answer: (A
+To what phylum does the following animal belong to: Platypus? (A) I don't know, (B) Chordata. Answer: (B
